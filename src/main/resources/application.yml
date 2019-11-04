@@ -1,0 +1,7 @@
+quickfixj:
+  server:
+    config: classpath:quickfixj-server.cfg
+    auto-startup: true
+    phase: 0
+    jmx-enabled: true
+    concurrent.enabled: true

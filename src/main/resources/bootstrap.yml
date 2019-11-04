@@ -1,0 +1,3 @@
+management.endpoints.enabled-by-default: true
+management.endpoint.quickfixjserver.enabled: true
+management.endpoints.web.exposure.include: quickfixjserver
